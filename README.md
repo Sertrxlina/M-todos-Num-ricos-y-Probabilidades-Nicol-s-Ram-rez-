@@ -20,9 +20,3 @@ En este repositorio se encuentran las distintas tareas desarrolladas durante la 
 - **Google Colab:** ejecución y documentación de código.
 - **NumPy:** operaciones y cálculos numéricos.
 - **Matplotlib:** representación gráfica de resultados.
-
-<p align="center">
-  <i>Un paso a la vez, una aproximación a la vez.</i>
-  <br>
-  📐 <b>Métodos Numéricos</b>
-</p>
